@@ -1,0 +1,22 @@
+text,label
+"Congratulations! You have won a free gift card. Click the link to claim now.",spam
+"Your account has been suspended. Verify your identity here: http://verify-secure-login.com",spam
+"URGENT: Your bank account is locked. Log in immediately to restore access.",spam
+"You have been selected for a cash prize of $5000. Respond within 24 hours.",spam
+"Download the attached file to update your security settings.",spam
+"Dear user, we detected unusual activity. Click here to reset your password.",spam
+"Limited-time offer! Buy now and save 90%. Exclusive deal!",spam
+"Please review the attached invoice and confirm payment.",spam
+"Your delivery failed. Reschedule at the link provided.",spam
+"Win a brand-new iPhone today! Claim before midnight.",spam
+
+"Hey mom, I’ll be home around 5pm. Do you need anything from the store?",ham
+"Team, the project meeting has been moved to Monday at 10am.",ham
+"Attached is the slide deck for tomorrow’s presentation.",ham
+"Hi John, looking forward to our lunch meeting next week.",ham
+"Thank you for your purchase. Your receipt is attached.",ham
+"Here are the photos from the trip—let me know what you think!",ham
+"Reminder: Your appointment with Dr. Smith is scheduled for Tuesday.",ham
+"Just checking in. How have you been lately?",ham
+"Your package has shipped and will arrive tomorrow.",ham
+"Welcome to our service! Let us know if you need any help.",ham
